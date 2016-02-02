@@ -1,0 +1,14 @@
+MIDlet-1: MathParser,/pic/icon.png,MathParser.Midlet
+MIDlet-About-Icon: /pic/about.png
+MIDlet-Author: Iskandar Z. Nasibu
+MIDlet-Description: Excel Style Math Parser
+MIDlet-Info-URL: https://sites.google.com/site/zulnasibu/home
+MIDlet-Jar-Size: 60103
+MIDlet-Jar-URL: MathParser.jar
+MIDlet-Name: MathParser
+MIDlet-Organization: UGM Yogyakarta
+MIDlet-Vendor: ZulNs
+MIDlet-Version: 2.0
+MIDlet-Year: 2011 - 2013
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
